@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harshvardhandubey
 - 👀 I’m interested in Software Development!
 - 🌱 I’m currently learning Spring Boot & Microservices.
-- 💞️ I’m looking to collaborate on anything that can help me learn something new!
+- 💞️ I’m looking to collaborate on Spring based REST Services.
 - 📫 Kindly reach me at https://www.linkedin.com/in/harshvardhandubey/
 
 <!---
